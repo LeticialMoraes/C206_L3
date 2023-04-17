@@ -11,7 +11,7 @@ public class Main {
         g.setTipo("Inox");
         g.setFabricante("Eletrolux");
         g.setValor(2000);
-        System.out.println("-------------");
+        
 
         f.setDescricao("Fogao");
         f.setQuantidadeBocas(4);
@@ -19,6 +19,6 @@ public class Main {
         f.setFabricante("Eletrolux");
         f.setValor(2000);
         f.setTipoAcendimento("manual");
-        System.out.println("-------------");
+       
     }
 }
