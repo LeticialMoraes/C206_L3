@@ -22,10 +22,10 @@ public class Calculadora {
         return y;
     }
 
-    public float soma() throws ArithmeticException{
+    public float soma(){
         return x+y;
     }
-    public float subtracao()throws ArithmeticException{
+    public float subtracao(){
         return x -y;
     }
     public float multiplicacao()throws ArithmeticException{
